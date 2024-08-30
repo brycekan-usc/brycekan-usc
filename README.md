@@ -1,10 +1,14 @@
 ## Hi there 👋
 
+- I'm currently a Computer Science Masters student at USC.
+- I love to hike, stay active outdoors but also watch netflix.
+- I'm particularly interested in computer vision and autonomous vehicles! Hopefully I can do research in this field in the future
+- You can reach me at brycekan@usc.edu
 <!--
 **brycekan-usc/brycekan-usc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- I'm 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
